@@ -5,13 +5,6 @@
 p { font-family: 'Times New Roman', Times, serif;
 }
 
-dt {
-    font: italic;
-    font-weight: bold;
-    font-size: 15px;
-    margin-top: 2rem;
-}    
-
 .roster-pics {
     border: solid; width: 5px rgba(2, 108, 247, 0.967);
     background-color: rgb(0, 66, 126, 255);
